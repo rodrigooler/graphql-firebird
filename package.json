@@ -1,0 +1,9 @@
+{
+  "name": "graphql-firebird",
+  "version": "0.0.1",
+  "description": "Graphql + Firebird + Koa",
+  "main": "index.js",
+  "repository": "git@github.com:rodrigooler/graphql-firebird.git",
+  "author": "Rodrigo Oler <roodrigoprogrammer@gmail.com>",
+  "license": "MIT"
+}
